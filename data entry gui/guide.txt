@@ -1,0 +1,4 @@
+This is a Gui . 
+This can take all the data and store in text file.
+This is made with help of phython.
+The python library used to make this is tkinter library. 
